@@ -8,24 +8,34 @@
 
 
 <url>
-  <loc>https://roshann-rai.github.io/roshan/green-bonds.html</loc>
-  <lastmod>2023-02-07T14:53:40+00:00</lastmod>
+  <loc>https://roshann-rai.github.io/roshan/</loc>
+  <lastmod>2023-02-10T15:48:47+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://roshann-rai.github.io/roshan/index.html</loc>
-  <lastmod>2023-02-07T14:53:40+00:00</lastmod>
+  <lastmod>2023-02-10T15:48:47+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://roshann-rai.github.io/roshan/about.html</loc>
-  <lastmod>2023-02-07T14:53:40+00:00</lastmod>
+  <lastmod>2023-02-10T15:48:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://roshann-rai.github.io/roshan/covid.html</loc>
+  <lastmod>2023-02-10T15:48:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://roshann-rai.github.io/roshan/green-bonds.html</loc>
+  <lastmod>2023-02-10T15:48:47+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://roshann-rai.github.io/roshan/time-series-analysis-of-gdp-and-nepse.html</loc>
-  <lastmod>2023-02-07T14:53:40+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2023-02-10T15:48:48+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
