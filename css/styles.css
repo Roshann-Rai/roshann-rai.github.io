@@ -78,7 +78,7 @@
 
 body {
   margin: 0;
-  font-family: var(--bs-body-font-family);
+  font-family: Fort, sans-serif;
   font-size: var(--bs-body-font-size);
   font-weight: var(--bs-body-font-weight);
   line-height: var(--bs-body-line-height);
@@ -241,6 +241,11 @@ a {
 }
 a:hover {
   color: #0085A1;
+  text-decoration: none;
+}
+a:link {
+  text-decoration: none;
+  color: #156c7e; 
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
