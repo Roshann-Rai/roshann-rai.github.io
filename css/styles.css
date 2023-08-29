@@ -240,17 +240,23 @@ a {
   text-decoration: none;
 }
 a:hover {
-  color: #0085A1;
   text-decoration: none;
 }
 a:link {
   text-decoration: none;
-  color: #156c7e; 
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
   color: inherit;
   text-decoration: none;
+}
+
+#container a {
+  text-decoration: underline;
+  text-decoration-color: #d91a63;
+  text-decoration-style: solid;
+  text-decoration-thickness: 2px; 
+  text-underline-position: under;
 }
 
 pre,
