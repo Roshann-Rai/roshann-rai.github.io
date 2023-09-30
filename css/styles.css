@@ -1,15 +1,5 @@
 @charset "UTF-8";
-/*!
-* Start Bootstrap - Clean Blog v6.0.8 (https://startbootstrap.com/theme/clean-blog)
-* Copyright 2013-2022 Start Bootstrap
-* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-clean-blog/blob/master/LICENSE)
-*/
-/*!
- * Bootstrap v5.1.3 (https://getbootstrap.com/)
- * Copyright 2011-2021 The Bootstrap Authors
- * Copyright 2011-2021 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
- */
+
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
@@ -156,6 +146,25 @@ h6, .h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+}
+
+br + p {
+  margin-bottom: 1rem;
+}
+
+.colored-box {
+  background-color: #ffeaf6; 
+  padding: 20px; /* Adjust the padding as needed */
+  border-radius: 15px; /* Add rounded corners to the box */
+  width: 700px; /* Adjust the width of the box */
+  margin: 5px auto; /* Center the box horizontally and add margin as needed */
+  text-align: left; /* Center the text inside the box */
+}
+
+/* Style the paragraph inside the colored box */
+.colored-box p {
+  color: #fff; /* Change the text color to contrast with the background */
+  font-size: 18px; /* Adjust the font size as needed */
 }
 
 abbr[title],
