@@ -50,6 +50,7 @@
   --bs-body-font-size: 1rem;
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
+  --bs-body-text-align: left;
   --bs-body-color: #212529;
   --bs-body-bg: #fff;
 }
@@ -102,9 +103,9 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
 h1, .h1 {
   font-size: calc(1.375rem + 1.5vw);
 }
-@media (min-width: 1200px) {
+@media (max-width: 412px) {
   h1, .h1 {
-    font-size: 2.5rem;
+    font-size: 1.25rem;
   }
 }
 
@@ -113,7 +114,7 @@ h2, .h2 {
 }
 @media (min-width: 1200px) {
   h2, .h2 {
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
 }
 
@@ -148,24 +149,6 @@ p {
   margin-bottom: 1rem;
 }
 
-br + p {
-  margin-bottom: 1rem;
-}
-
-.colored-box {
-  background-color: #ffeaf6; 
-  padding: 20px; /* Adjust the padding as needed */
-  border-radius: 15px; /* Add rounded corners to the box */
-  width: 700px; /* Adjust the width of the box */
-  margin: 5px auto; /* Center the box horizontally and add margin as needed */
-  text-align: left; /* Center the text inside the box */
-}
-
-/* Style the paragraph inside the colored box */
-.colored-box p {
-  color: #fff; /* Change the text color to contrast with the background */
-  font-size: 18px; /* Adjust the font size as needed */
-}
 
 abbr[title],
 abbr[data-bs-original-title] {
@@ -490,7 +473,18 @@ output {
   display: inline-block;
 }
 
-iframe {
+.wrapper {
+  position: relative;
+  overflow: hidden;
+  padding-top:56.7%;
+}
+
+.wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
   border: 0;
 }
 
