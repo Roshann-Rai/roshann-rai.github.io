@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Economic Slack on Roshan Rai</title>
+    <link>//localhost:1313/tags/economic-slack/</link>
+    <description>Recent content in Economic Slack on Roshan Rai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/economic-slack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moen Meets Rotemberg: An Earthly Model of the Divine Coincidence</title>
+      <link>//localhost:1313/15/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/15/</guid>
+      <description>This paper develops a simple business-cycle model with divine coincidence: inflation is on target when unemployment is efficient.</description>
+    </item>
+    
+    <item>
+      <title>An Economical Business-Cycle Model</title>
+      <link>//localhost:1313/7/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/7/</guid>
+      <description>This paper develops a policy-oriented business-cycle model with fluctuating unemployment and long zero-lower-bound episodes. Published in OEP, 2022.</description>
+    </item>
+    
+    <item>
+      <title>Optimal Public Expenditure with Inefficient Unemployment</title>
+      <link>//localhost:1313/6/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/6/</guid>
+      <description>This paper shows that public expenditure should deviate from the Samuelson rule to reduce the unemployment gap, when it exists. Published in REStud, 2018.</description>
+    </item>
+    
+    <item>
+      <title>Aggregate Demand, Idle Time, and Unemployment</title>
+      <link>//localhost:1313/3/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/3/</guid>
+      <description>This paper develops a model of unemployment fluctuations in which the labor and product markets have a matching structure. Published in QJE, 2015.</description>
+    </item>
+    
+  </channel>
+</rss>

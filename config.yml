@@ -1,0 +1,93 @@
+baseURL: "https://roshann-rai.github.io/" 
+title: Roshan Rai
+paginate: 20
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Papers
+          url: /papers/
+          weight: 1
+        - name: Articles
+          url: /articles/
+          weight: 2        
+        # - name: Book
+        #   url: /b1/
+
+params:
+    description: "This website documents my learning journey."
+    author: Roshan Rai
+    googleAnalyticsID: "G-QWWB6KYPYS"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: true
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: false
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Roshan Rai
+          subtitle: "I am a Senior Assistant at the Securities Board of Nepal, regulator of securities market in Nepal. I have an MBA in Finance from Kathmandu University School of Management."
+          imageUrl: "/roshan.jpeg"
+          imageWidth: 160
+          imageHeight: 160
+          imageTitle: Roshan Rai
+          buttons:
+            - name: Papers
+              url: /papers/
+            - name: Articles
+              url: /articles/
+            - name: Archive
+              url: /archive/
+
+    socialIcons:
+        - name: CV
+          url: /cv.pdf
+        - name: Email
+          url: mailto:roshan.rai@sebon.gov.np
+        - name: GitHub
+          url: https://github.com/roshann-rai
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/rai-roshan/
+
+    assets:
+        disableHLJS: true
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: true
+        hiddenInSingle: true
+    label:
+      text: Roshan Rai
+      icon: /favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
