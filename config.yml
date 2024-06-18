@@ -44,7 +44,7 @@ params:
     profileMode:
           enabled: true
           title: Roshan Rai
-          subtitle: "I am a Senior Assistant at the Securities Board of Nepal, regulator of securities market in Nepal. I have an MBA in Finance from Kathmandu University School of Management."
+          subtitle: "I am an MBA (Finance) graduate from Kathmandu University School of Management. Currently I am working as a Senior Assistant at Securities Board of Nepal, regulator of capital market of Nepal. I am interested in finance and economics. This website documents my learning journey."
           imageUrl: "/roshan.jpeg"
           imageWidth: 160
           imageHeight: 160

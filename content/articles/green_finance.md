@@ -8,7 +8,7 @@ aliases:
 tags: ["green finance", "green bonds", "sustainability"]
 author: "Roshan Rai"
 description: "This article explains the need for and challenges of green financing in nepal." 
-summary: "This article explains the need for and challenges of green financing in nepal amidst the climate change." 
+summary: "The effects of climate change can reduce the global economic output by 11 to 14 percent by 2050 according to Swiss Re. To combat climate change, new type of financial instrument has been developed called the green bond." 
 cover:
     image: "/green.png"
     alt: "Growth of Green Bonds, 2013-2021"

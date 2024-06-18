@@ -8,7 +8,7 @@ aliases:
 tags: ["financial literacy", "financial education", "financial market", "economic stability", "economic growth"]
 author: "Roshan Rai"
 description: "This article explains the need for financial literacy for economic growth and stability." 
-summary: "This article explains the need for and challenges of green financing in nepal amidst the climate change." 
+summary: "Rapid financial innovations can be a problem unless the investors are well aware about the financial instruments. When the majority of public are financially illiterate, it can result in the unnecessary speculations prices of assets. This can create the volatile economy." 
 #cover:
  #   image: "/green.png"
   #  alt: "Growth of Green Bonds, 2013-2021"
