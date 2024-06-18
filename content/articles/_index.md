@@ -1,5 +1,5 @@
 ---
-title: "Courses"
-author: "Pascal Michaillat"
-description: "Undergraduate and graduate courses on business cycles, economic slack, unemployment, macroeconomics, and mathematical methods."
+title: "Articles"
+author: "Roshan Rai"
+description: "My articles to document my learning journey."
 ---
