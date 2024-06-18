@@ -1,4 +1,4 @@
-baseURL: "" 
+baseURL: "https://roshann-rai.github.io/" 
 title: Roshan Rai
 paginate: 20
 theme: PaperMod
@@ -17,8 +17,6 @@ menu:
         - name: Articles
           url: /articles/
           weight: 2        
-        # - name: Book
-        #   url: /b1/
 
 params:
     description: "This website documents my learning journey."
@@ -52,10 +50,8 @@ params:
           imageHeight: 160
           imageTitle: Roshan Rai
           buttons:
-            - name: Papers
-              url: /papers/
             - name: Articles
-              url: /articles/
+              url: /articles/           
             - name: Archive
               url: /archive/
 
