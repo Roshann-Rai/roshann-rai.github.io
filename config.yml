@@ -2,6 +2,7 @@ baseURL: ""
 title: Roshan Rai
 paginate: 20
 theme: PaperMod
+google-site-verification: 53NIInAH6oVPiTSLQl1NFnBfBoTvEUrv7btTG2h3QCo
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
