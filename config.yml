@@ -51,9 +51,7 @@ params:
           imageTitle: Roshan Rai
           buttons:
             - name: Articles
-              url: /articles/
-            - name: Projects
-              url: /projects/           
+              url: /articles/   
             - name: Archive
               url: /archive/
 
