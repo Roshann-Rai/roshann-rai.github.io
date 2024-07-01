@@ -52,8 +52,8 @@ params:
           buttons:
             - name: Articles
               url: /articles/
-            - name: Projects
-              url: /projects/   
+            - name: Notes
+              url: /notes/   
             - name: Archive
               url: /archive/
 
