@@ -1,8 +1,8 @@
 ---
 title: "Differential Equation" 
 baseURL: https://roshann-rai.github.io
-date: 2023-11-02
-lastmod: 2024-04-12
+date: 2024-07-01
+lastmod: 2024-07-01
 pdf: /differential-equation.pdf
 url: /3/
 aliases: 
