@@ -15,6 +15,6 @@ plotly: true
 draft: false
 ---
 
-This includes the notes related to differential equation. A differential equation of simple form 𝑑𝑦/𝑑𝑡 + 𝑃 (𝑡)𝑦 = 𝑓(𝑡) explains how the change in one variable (independent variable) affects the other dependent variable. Differential equation helps to explain how the systems changes over time. The Rmarkdown file to write this pdf is [here](https://raw.githubusercontent.com/Roshann-Rai/differential-equation/main/differential.Rmd)
+This includes the notes related to differential equation. A differential equation of simple form 𝑑𝑦/𝑑𝑡 + 𝑃 (𝑡)𝑦 = 𝑓(𝑡) explains how the change in one variable (independent variable) affects the other dependent variable. Differential equation helps to explain how the systems changes over time.
 
 {{< embed-pdf url="/differential-equation.pdf" >}}
