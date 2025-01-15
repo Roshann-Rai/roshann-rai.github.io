@@ -28,6 +28,6 @@
 {{- end }}
 <meta name="twitter:title" content="{{ .Title }}"/>
 <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . }}{{ else }}{{if (eq .Kind `term`) }}Pascal Michaillat's research papers and course material related to: {{ .Title }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}{{ end }}"/>
-{{ with site.Social.twitter -}}
+{{ with site.Params.Social.twitter -}}
 <meta name="twitter:site" content="@{{ . }}"/>
 {{ end -}}

@@ -1,6 +1,6 @@
 baseURL: "" 
 title: Roshan Rai
-paginate: 20
+pagination.pagerSize: 20
 theme: PaperMod
 
 enableInlineShortcodes: true
