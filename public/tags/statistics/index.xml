@@ -13,7 +13,7 @@
       <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/4/</guid>
-      <description>This includes the notes related to differential equation. A differential equation of simple form 𝑑𝑦/𝑑𝑡 + 𝑃 (𝑡)𝑦 = 𝑓(𝑡) explains how the change in one variable (independent variable) affects the other dependent variable. Differential equation helps to explain how the systems changes over time.</description>
+      <description>This includes the notes related to probability and statistics. Probability and statistics are indispensable tools for quantifying uncertainty and making decisions based on data. They are applied in finance, health, engineering, social sciences, and marketing, among other fields, to model complex systems, analyze trends, and predict future outcomes. By applying the theory of probability, we can make a judgment about risks and make appropriate decisions. This note contains parts that I learnt from the Probability and Statistics course of Georgia Tech university in edx.org</description>
     </item>
     
   </channel>
