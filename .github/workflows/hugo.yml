@@ -54,10 +54,12 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Upload artifact (Debug)
+        uses: actions/upload-artifact@v3
         with:
-          path: ./public
+         name: site
+         path: ./public
+
 
   deploy:
     environment:
@@ -66,7 +68,11 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
+      - name: Debug Run ID
+        run: echo "Run ID: ${{ github.run_id }}"
+        
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
-        with: {}  # Optional, but keeps it clean
+        with: 
+          artifact_name: site
