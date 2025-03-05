@@ -57,6 +57,11 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
+    - name: Debug Run ID
+        run: echo "Run ID: ${{ github.run_id }}"
+
+      - name: Debug Artifacts
+        run: ls -lah ${{ runner.temp }}
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2 # Updated to v2
