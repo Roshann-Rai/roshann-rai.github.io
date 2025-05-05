@@ -4,7 +4,7 @@ date: 2025-05-05
 lastmod: 2025-05-05
 url: /5/
 aliases: 
-    - /5.html
+    - /5/5.html
 tags: ["corporate financial disclosure", "financial reporting", "financial market"]
 author: "Roshan Rai"
 description: "This article explains the costs and benefits of corporate disclosure in financial market." 
