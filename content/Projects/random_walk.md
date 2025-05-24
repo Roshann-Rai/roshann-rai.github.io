@@ -35,11 +35,13 @@ $\epsilon_t = \sigma z_t \sim N(0,\sigma^2)$
 In this article, I will try to show how to test random walk hypothesis on financial data. I have followed the steps I learnt in the course [**Mathematical Methods for Quantitative Finance**](https://learning.edx.org/course/course-v1:MITx+15.455x+1T2025/home). I have used the data of NTC from Mid 2020 to Mid 2025 and divided the data into two groups: pre and post 4/12 policy of NRB to account for policy changes.[^1]
 
 ## Non-statistical Techinique
-A simple technique to identify random walk is to graph stock price as a function of time. The jagged appearance of the graph supports the random walk hypothesis. The jagged appearance is due to the uncorrelation of price change at one point in time with other point in time[^2]. 
+A simple technique to identify random walk is to graph stock price as a function of time. The jagged appearance of the graph supports the random walk hypothesis. The jagged appearance is due to the uncorrelation of price change at one point in time with other point in time[^2]. If we look
 
 ![image](/random_walk/stock_price.png)
 
 ## Volatility
+
+Volatility measures the sensitity of the price change.
 
 ![image](/random_walk/volatility.png)
 ![image](/random_walk/white_noise.png)

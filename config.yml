@@ -54,10 +54,10 @@ params:
               url: /articles/
             - name: Notes
               url: /notes/  
-            - name: Projects
-              url: /projects/ 
-            # - name: Archive
-            #   url: /archive/
+            # - name: Projects
+            #   url: /projects/ 
+            - name: Archive
+              url: /archive/
 
     socialIcons:
         - name: CV
