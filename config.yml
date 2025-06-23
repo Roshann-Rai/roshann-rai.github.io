@@ -54,8 +54,8 @@ params:
               url: /articles/
             - name: Notes
               url: /notes/  
-            # - name: Projects
-            #   url: /projects/ 
+            #- name: Projects
+             # url: /projects/ 
             - name: Archive
               url: /archive/
 
