@@ -44,7 +44,7 @@ params:
     profileMode:
           enabled: true
           title: Roshan Rai
-          subtitle: "I am an MBA (Finance) graduate from Kathmandu University School of Management. Currently I am working as a Assistant Director at Securities Board of Nepal, regulator of capital market of Nepal. I am interested in finance and economics. This website documents my learning journey."
+          subtitle: "I am an MBA (Finance) graduate from Kathmandu University School of Management. Currently I am working as a Assistant Director at Nepal Rastra Bank, central bank of Nepal. Previously, I was Assistant Director at Securities Board of Nepal, capital market regulator of Nepal. I am interested in finance and economics. This website documents my learning journey."
           imageUrl: "/roshan.jpeg"
           imageWidth: 160
           imageHeight: 160
