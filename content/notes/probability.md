@@ -4,7 +4,7 @@ baseURL: https://roshann-rai.github.io
 date: 2025-01-20
 lastmod: 2025-01-20
 pdf: /probability.pdf
-url: /4/
+url: /probability.pdf
 aliases: 
     - /4/4.html
 tags: ["Probability"]
@@ -19,4 +19,3 @@ draft: false
 This includes the notes related to probability. This note contains parts that I learnt from the Probability and Statistics course of Georgia Tech university in
 edx.org.
 
-{{< embed-pdf url="/probability.pdf" >}}

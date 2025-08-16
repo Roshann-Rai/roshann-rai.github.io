@@ -27,19 +27,19 @@
     
     <item>
       <title>Probability</title>
-      <link>http://localhost:1313/4/</link>
+      <link>http://localhost:1313/probability.pdf</link>
       <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/4/</guid>
+      <guid>http://localhost:1313/probability.pdf</guid>
       <description>This includes the notes related to probability. This note contains parts that I learnt from the Probability and Statistics course of Georgia Tech university&amp;rsquo;s edx.org</description>
     </item>
     
     <item>
       <title>Differential Equation</title>
-      <link>http://localhost:1313/3/</link>
+      <link>http://localhost:1313/differential-equation.pdf</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/3/</guid>
+      <guid>http://localhost:1313/differential-equation.pdf</guid>
       <description>This includes the notes related to differential equation. A differential equation of simple form 𝑑𝑦/𝑑𝑡 + 𝑃 (𝑡)𝑦 = 𝑓(𝑡) explains how the change in one variable (independent variable) affects the other dependent variable. Differential equation helps to explain how the systems changes over time.</description>
     </item>
     
