@@ -9,10 +9,10 @@
     <lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/differential-equation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Differential Equation</title>
-      <link>http://localhost:1313/differential-equation.pdf</link>
+      <link>http://localhost:1313/static/notes/differential-equation.pdf</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/differential-equation.pdf</guid>
+      <guid>http://localhost:1313/static/notes/differential-equation.pdf</guid>
       <description>This includes the notes related to differential equation. This note contains parts that I learnt from the Differential Equation course of Rice university&amp;rsquo;s.</description>
     </item>
     
