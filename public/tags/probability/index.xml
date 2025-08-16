@@ -9,10 +9,10 @@
     <lastBuildDate>Mon, 20 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/probability/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Probability</title>
-      <link>http://localhost:1313/probability.pdf</link>
+      <link>http://localhost:1313/notes/probability.pdf</link>
       <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/probability.pdf</guid>
+      <guid>http://localhost:1313/notes/probability.pdf</guid>
       <description>This includes the notes related to probability. This note contains parts that I learnt from the Probability and Statistics course of Georgia Tech university&amp;rsquo;s edx.org</description>
     </item>
     
