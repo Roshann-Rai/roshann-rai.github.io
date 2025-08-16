@@ -7,7 +7,7 @@
 <meta name="robots" content="noindex, nofollow">
 <title>Differential Equation | Roshan Rai</title>
 <meta name="keywords" content="differential equation">
-<meta name="description" content="This includes the notes related to differential equation. A differential equation of simple form 𝑑𝑦/𝑑𝑡 &#43; 𝑃 (𝑡)𝑦 = 𝑓(𝑡) explains how the change in one variable (independent variable) affects the other dependent variable. Differential equation helps to explain how the systems changes over time.">
+<meta name="description" content="This includes the notes related to differential equation. This note contains parts that I learnt from the Differential Equation course of Rice university&rsquo;s.">
 <meta name="author" content="Roshan Rai">
 <link rel="canonical" href="http://localhost:1313/differential-equation.pdf">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.8f953ab46cfda93cd645c1788aa13e3530b6eba828d595a237084e934428278a.css" integrity="sha256-j5U6tGz9qTzWRcF4iqE&#43;NTC266go1ZWiNwhOk0QoJ4o=" rel="preload stylesheet" as="style">
@@ -28,7 +28,7 @@
 
     </style>
 </noscript><meta property="og:title" content="Differential Equation" />
-<meta property="og:description" content="This includes the notes related to differential equation. A differential equation of simple form 𝑑𝑦/𝑑𝑡 &#43; 𝑃 (𝑡)𝑦 = 𝑓(𝑡) explains how the change in one variable (independent variable) affects the other dependent variable. Differential equation helps to explain how the systems changes over time." />
+<meta property="og:description" content="This includes the notes related to differential equation. This note contains parts that I learnt from the Differential Equation course of Rice university&rsquo;s." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://localhost:1313/differential-equation.pdf" /><meta property="article:section" content="notes" />
 <meta property="article:published_time" content="2024-07-01T00:00:00+00:00" />
@@ -36,7 +36,7 @@
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Differential Equation"/>
-<meta name="twitter:description" content="This includes the notes related to differential equation. A differential equation of simple form 𝑑𝑦/𝑑𝑡 &#43; 𝑃 (𝑡)𝑦 = 𝑓(𝑡) explains how the change in one variable (independent variable) affects the other dependent variable. Differential equation helps to explain how the systems changes over time."/>
+<meta name="twitter:description" content="This includes the notes related to differential equation. This note contains parts that I learnt from the Differential Equation course of Rice university&rsquo;s."/>
 
 
 <script type="application/ld+json">
@@ -65,12 +65,12 @@
   "@type": "BlogPosting",
   "headline": "Differential Equation",
   "name": "Differential Equation",
-  "description": "This includes the notes related to differential equation. A differential equation of simple form 𝑑𝑦/𝑑𝑡 + 𝑃 (𝑡)𝑦 = 𝑓(𝑡) explains how the change in one variable (independent variable) affects the other dependent variable. Differential equation helps to explain how the systems changes over time.",
+  "description": "This includes the notes related to differential equation. This note contains parts that I learnt from the Differential Equation course of Rice university\u0026rsquo;s.",
   "keywords": [
     "differential equation"
   ],
-  "articleBody": "This includes the notes related to differential equation. A differential equation of simple form 𝑑𝑦/𝑑𝑡 + 𝑃 (𝑡)𝑦 = 𝑓(𝑡) explains how the change in one variable (independent variable) affects the other dependent variable. Differential equation helps to explain how the systems changes over time.\n",
-  "wordCount" : "45",
+  "articleBody": "",
+  "wordCount" : "0",
   "inLanguage": "en",
   "datePublished": "2024-07-01T00:00:00Z",
   "dateModified": "2024-07-01T00:00:00Z",
@@ -164,9 +164,6 @@
 
 </div>
   </header> 
-  <div class="post-content"><p>This includes the notes related to differential equation. A differential equation of simple form 𝑑𝑦/𝑑𝑡 + 𝑃 (𝑡)𝑦 = 𝑓(𝑡) explains how the change in one variable (independent variable) affects the other dependent variable. Differential equation helps to explain how the systems changes over time.</p>
-
-  </div>
 
   <footer class="post-footer">
     <ul class="post-tags">
