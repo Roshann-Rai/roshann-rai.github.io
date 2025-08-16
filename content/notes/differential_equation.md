@@ -10,10 +10,10 @@ aliases:
 tags: ["differential equation"]
 author: "Roshan Rai"
 description: "" 
-summary: "This includes the notes related to differential equation. A differential equation of simple form 𝑑𝑦/𝑑𝑡 + 𝑃 (𝑡)𝑦 = 𝑓(𝑡) explains how the change in one variable (independent variable) affects the other dependent variable. Differential equation helps to explain how the systems changes over time." 
+summary: "This includes the notes related to differential equation. This note contains parts that I learnt from the Differential Equation course of Rice university's." 
 plotly: true
 draft: false
 ---
 
-This includes the notes related to differential equation. A differential equation of simple form 𝑑𝑦/𝑑𝑡 + 𝑃 (𝑡)𝑦 = 𝑓(𝑡) explains how the change in one variable (independent variable) affects the other dependent variable. Differential equation helps to explain how the systems changes over time.
+
 

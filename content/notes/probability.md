@@ -16,6 +16,4 @@ plotly: true
 draft: false
 ---
 
-This includes the notes related to probability. This note contains parts that I learnt from the Probability and Statistics course of Georgia Tech university in
-edx.org.
 
