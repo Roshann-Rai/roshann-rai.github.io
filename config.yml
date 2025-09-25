@@ -53,7 +53,7 @@ params:
             - name: Articles
               url: /articles/
             - name: Notes
-              url: /notes/  
+              url: /notes/ 
             #- name: Projects
              # url: /projects/ 
             - name: Archive
