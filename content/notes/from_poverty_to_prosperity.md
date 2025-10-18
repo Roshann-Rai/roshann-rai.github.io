@@ -6,7 +6,7 @@ lastmod: 2025-10-17
 pdf: /notes/poverty-to-prosperity.pdf
 url: /notes/poverty-to-prosperity.pdf
 aliases: 
-    - /7/7.html
+    - /6/6.html
 tags: ["economic development", "Sir Paul Collier", "Edx"]
 author: ""
 description: "" 
