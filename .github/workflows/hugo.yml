@@ -70,6 +70,16 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
             --cacheDir "${{ runner.temp }}/hugo_cache"
+      - name: Debug built files
+        run: |
+            echo "=== Checking for PDF files in build ==="
+            find public/ -name "*.pdf" | head -10
+            echo "=== Notes directory contents ==="
+            ls -la public/notes/ || echo "No notes directory found"
+            echo "=== Checking PDF file details ==="
+            file public/notes/probability.pdf || echo "PDF file not found"
+            echo "=== Full public directory structure ==="
+            ls -la public/ | head -20
       - name: Cache Save
         id: cache-save
         uses: actions/cache/save@v4
