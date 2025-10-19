@@ -14,5 +14,3 @@ summary: "This includes the notes related to probability. This note contains par
 plotly: true
 draft: false
 ---
-
-
