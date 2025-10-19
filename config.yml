@@ -6,20 +6,6 @@ theme: PaperMod
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
-# ▼▼▼ ADD THIS SECTION FOR PDF SUPPORT ▼▼▼
-build:
-  noJSConfigInAssets: true
-
-mediaTypes:
-  "application/pdf":
-    suffixes: ["pdf"]
-
-outputFormats:
-  PDF:
-    mediaType: "application/pdf"
-    isPlainText: false
-    isHTML: false
-    
 taxonomies:
     tag: tags
 
@@ -70,8 +56,8 @@ params:
               url: /notes/ 
             #- name: Projects
              # url: /projects/ 
-            - name: Archive
-              url: /archive/
+            #- name: Archive
+              #url: /archive/
 
     socialIcons:
         - name: CV
