@@ -5,14 +5,10 @@ lastmod: 2025-12-02
 url: /6/
 aliases: 
     - /6/6.html
-tags: ["oligarchy", "elites", "democracy"]
+tags: ["oligarchy", "power concentration", "democracy", "democratic backsliding"]
 author: "Roshan Rai"
 description: "From tribal societies to modern state, power is often concentrated on the select few who dominate the many. There is the continuous struggle between the elites and commons that can be seen as a conflict between those seeking to protect existing power and those striving to gain power or challenge it." 
 summary: "From tribal societies to modern state, power is often concentrated on the select few who dominate the many. There is the continuous struggle between the elites and commons that can be seen as a conflict between those seeking to protect existing power and those striving to gain power or challenge it." 
-#cover:
- #   image: "/green.png"
-  #  alt: "Growth of Green Bonds, 2013-2021"
-   # relative: false
 plotly: true
 ---
 

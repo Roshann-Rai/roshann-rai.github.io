@@ -41,8 +41,6 @@ S&P Global Financial Literacy Survey 2014 is the most comprehensive global measu
 + Further, financial literacy is found to be have positive relationship with math scores of young population except in Portugal, Vietnam, South Korea and China. Scandinavian countries are found to have higher financially literate population. Norway, Denmark and Sweden had 71% of adults financially literate while the USA had only 57% adults financially literate.
 + In the SAARC region, Bhutan has the highest financially literate adult population i.e., 54% followed by Maldives (35%). Nepal has only 18% of adult financially literate while India has 24%.
 
-{{< plotly width="900" height="450" frameborder="0" scrolling="no" src="//plotly.com/~RoshanRai/51.embed" >}}
-
 In the context of Nepal, Nepal Rastra Bank’s financial literacy survey[^3] conducted in 2022 found that 57.9% of Nepalese of age above 18 years are financially literate. Bagmati province has the highest while Madhesh province has the lowest financially literate population. Males are found to be more financially literate than females by 7.5%. The gender gap in financial literacy score has been found in all provinces with the gap being the widest in Madhesh and Sudurpaschim province. Likewise, Younger people (18-30 years) are more financially literate than older ones (above 60 years).
 
 ## What role does financial literacy play in an economy?
