@@ -70,4 +70,3 @@ The oligarchic tendencies in the society reinforced by the accumulation of wealt
 ## Footnotes
 [^1]: Robert Dahl defined Power as “A has power over B to the extent that he can get B to do something that B would not otherwise do.”
 [^2]: Democratic backsliding, a phenomenon sometimes characterized as an “erosion,” is the process of declining integrity for democratic values or institutions in a political system (Carnegie Council for Ethics in International Affairs). It involves reduction of checks and balances on the executive which includes (i) erosion of the norms of political behaviour and standards, (ii) weakening of the legislature, the courts and independent regulators, (iii) the reduction of civil liberties and press freedom and (iv) harm to the integrity of the electoral system (Backsliding: Democratic Regress in the Contemporary World, 2021; How Democracies Die, 2019).
-

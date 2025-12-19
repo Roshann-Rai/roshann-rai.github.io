@@ -17,11 +17,11 @@
     </item>
     
     <item>
-      <title>Elites</title>
-      <link>http://localhost:1313/tags/elites/</link>
+      <title>Democratic Backsliding</title>
+      <link>http://localhost:1313/tags/democratic-backsliding/</link>
       <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/elites/</guid>
+      <guid>http://localhost:1313/tags/democratic-backsliding/</guid>
       <description></description>
     </item>
     
@@ -31,6 +31,15 @@
       <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/oligarchy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Concentration</title>
+      <link>http://localhost:1313/tags/power-concentration/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/power-concentration/</guid>
       <description></description>
     </item>
     
