@@ -17,6 +17,7 @@ plotly: true
 ---
 
 <div class="thinline"></div>
+<div style="font-family: Cambria, 'Cambria Math', Georgia, serif; font-weight: 540; font-size: 19px;">
 
 A market can be inefficient when the parties involved in transactions have asymmetry of information available to them. Information asymmetry can lead to adverse selection which is the situation when one party has more information than other so that better informed party can take benefit of the other party. Economists George Akerlof (1970), Eugene Fama (1970), Michael Jensen and William Meckling (1976) have argued that information symmetry is key foundation to fair and efficient market. The modern financial market has adopted this notion of information symmetry. Financial market regulators have mandated periodic financial disclosures globally with the objective of protecting investors’ interests and developing fair and efficient market. 
 
