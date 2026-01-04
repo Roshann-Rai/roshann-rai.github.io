@@ -13,7 +13,7 @@ plotly: true
 ---
 
 <div class="thinline"></div>
-<div style="font-family: Cambria, 'Cambria Math', Georgia, serif; font-weight: 540; font-size: 19px;">
+<div style="font-family: Cambria, 'Cambria Math', Georgia, serif; font-weight: 545; font-size: 20px;">
 
 The desire for power may either be a universal human drive, an evolutionary outcome or to autonomously control one’s outcome and self-actualize as described by Neitzsche. Whatever the reason may be, the desire for power has shaped the history of humankind – social hierarchies, political systems and economic relations. But power is not distributed uniformly among the members of society. From tribal societies to modern state, power is often concentrated on the select few who dominate the many. There is the continuous struggle between the elites and commons that can be seen as a conflict between those seeking to protect existing power and those striving to gain power or challenge it. 
 
