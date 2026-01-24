@@ -63,7 +63,7 @@ params:
         - name: CV
           url: /cv.pdf
         - name: Email
-          url: mailto:roshan.rai@sebon.gov.np
+          url: mailto:roshan.rai@nrb.org.np
         - name: GitHub
           url: https://github.com/roshann-rai
         - name: LinkedIn
