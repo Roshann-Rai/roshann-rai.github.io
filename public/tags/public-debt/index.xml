@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Public Debt on Roshan Rai</title>
+    <link>http://localhost:1313/tags/public-debt/</link>
+    <description>Recent content in Public Debt on Roshan Rai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/public-debt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nepal&#39;s Public Debt: Should We be Worried?</title>
+      <link>http://localhost:1313/notes/public.pdf</link>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/notes/public.pdf</guid>
+      <description>The rapid rise of public debt of Nepal has worried the policymakers, bureaucrats, economists and the public like. Public debt to GDP ratio was around 15-20% of GDP pre-earthquake period has reached 44% in 2025.</description>
+    </item>
+    
+  </channel>
+</rss>
