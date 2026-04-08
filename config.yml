@@ -19,7 +19,7 @@ menu:
           weight: 2 
         - name: Notes
           url: /notes/
-          weigh: 3       
+          weight: 3       
 
 params:
     description: "This website documents my learning journey."
