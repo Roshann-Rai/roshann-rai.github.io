@@ -14,12 +14,12 @@ menu:
         - name: Home
           url: /
           weight: 1
-        - name: Articles
-          url: /articles/
-          weight: 2 
-        - name: Notes
-          url: /notes/
-          weight: 3       
+       # - name: Articles
+        #  url: /articles/
+       #   weight: 2 
+       # - name: Notes
+         # url: /notes/
+         # weight: 3       
 
 params:
     description: "This website documents my learning journey."
@@ -47,14 +47,16 @@ params:
     profileMode:
           enabled: true
           title: Roshan Rai
-          subtitle: "I am an MBA (Finance) graduate from Kathmandu University School of Management. Currently I am working as a Assistant Director at Nepal Rastra Bank, central bank of Nepal. Previously, I was Assistant Director at Securities Board of Nepal, capital market regulator of Nepal. I am interested in finance and economics. This website documents my learning journey."
+          subtitle: "Something to document my learning journey."
           imageUrl: "/roshan.jpeg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Roshan Rai
           buttons:
-            - name: Articles
-              url: /articles/
+            - name: Finance & Economics
+              url: /finance-economics/
+            - name: Society & Politics
+              url: /society-politics/
             - name: Notes
               url: /notes/ 
             #- name: Projects
