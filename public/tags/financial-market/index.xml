@@ -1,1 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Financial Market on Roshan Rai</title><link>https://roshann-rai.github.io/tags/financial-market/</link><description>Recent content in Financial Market on Roshan Rai</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 05 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://roshann-rai.github.io/tags/financial-market/index.xml" rel="self" type="application/rss+xml"/><item><title>Disclosure in Financial Market: Costs and Benefits</title><link>https://roshann-rai.github.io/5/</link><pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate><guid>https://roshann-rai.github.io/5/</guid><description>This article explains the costs and benefits of corporate disclosure in financial market.</description></item><item><title>Financial literacy: Beyond Investor Protection</title><link>https://roshann-rai.github.io/2/</link><pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate><guid>https://roshann-rai.github.io/2/</guid><description>This article explains the need for financial literacy for economic growth and stability.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Financial Market on Roshan Rai</title>
+    <link>http://localhost:1313/tags/financial-market/</link>
+    <description>Recent content in Financial Market on Roshan Rai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/financial-market/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Disclosure in Financial Market: Costs and Benefits</title>
+      <link>http://localhost:1313/5/</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/5/</guid>
+      <description>This article explains the costs and benefits of corporate disclosure in financial market.</description>
+    </item>
+    
+    <item>
+      <title>Financial literacy: Beyond Investor Protection</title>
+      <link>http://localhost:1313/2/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/2/</guid>
+      <description>This article explains the need for financial literacy for economic growth and stability.</description>
+    </item>
+    
+  </channel>
+</rss>
