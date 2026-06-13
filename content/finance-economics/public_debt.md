@@ -3,10 +3,10 @@ title: "Nepal's Public Debt: Should We be Worried?"
 baseURL: https://roshann-rai.github.io
 date: 2026-03-23
 lastmod: 2026-03-23
-pdf: /notes/public.pdf
+# pdf: /notes/public.pdf
 url: /notes/public.pdf
-# aliases: 
-#     - /7/7.html
+aliases: 
+    - /7/7.html
 tags: ["Public Debt", "Nepal"]
 author: "Roshan Rai"
 description: "" 
