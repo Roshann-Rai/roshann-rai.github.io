@@ -80,17 +80,6 @@ pre:hover .copy-code {
 
  */
 
- /* ─── CSS Variables ─────────────────────────────────────────── */
-:root {
-    --h1size: 2rem;
-    --body-font-size: 1rem;
-    --code-font-size: 0.875rem;
-    --pagination-font-size: 13px;
-    --pagination-line-height: 36px;
-    --social-icon-size: 28px;
-}
-
-/* ─── Main Layout ───────────────────────────────────────────── */
 .main {
     position: relative;
     min-height: calc(100vh - var(--header-height));
@@ -99,22 +88,22 @@ pre:hover .copy-code {
     padding: var(--gap);
 }
 
-/* ─── Page Header ───────────────────────────────────────────── */
+/* Responsive Heading */
 .page-header h1 {
-    font-size: var(--h1size);
+    font-size: clamp(2rem, 5vw, 3.5rem);
 }
 
-/* ─── Pagination ────────────────────────────────────────────── */
+/* Responsive Pagination */
 .pagination {
     display: flex;
 }
 
 .pagination a {
     color: var(--theme);
-    font-size: var(--pagination-font-size);
-    line-height: var(--pagination-line-height);
+    font-size: clamp(12px, 1.2vw, 16px);
+    line-height: clamp(32px, 4vw, 36px);
     background: var(--primary);
-    border-radius: calc(var(--pagination-line-height) / 2);
+    border-radius: calc(36px / 2);
     padding: 0 16px;
 }
 
@@ -122,7 +111,7 @@ pre:hover .copy-code {
     margin-inline-start: auto;
 }
 
-/* ─── Social Icons ──────────────────────────────────────────── */
+/* Social Icons */
 .social-icons {
     padding: 12px 0;
 }
@@ -132,31 +121,30 @@ pre:hover .copy-code {
 }
 
 .social-icons a svg {
-    height: var(--social-icon-size);
-    width: var(--social-icon-size);
+    width: clamp(20px, 2vw, 28px);
+    height: clamp(20px, 2vw, 28px);
 }
 
 .social-icons a:hover {
     color: var(--darkpurple);
 }
 
-/* ─── Code ──────────────────────────────────────────────────── */
+/* Responsive Code Text */
 code {
     direction: ltr;
-    font-size: var(--code-font-size);
+    font-size: clamp(13px, 1vw, 16px);
     text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
     -moz-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
 }
 
-/* ─── Highlight / Pre ───────────────────────────────────────── */
 div.highlight,
 pre {
     position: relative;
 }
 
-/* ─── Copy Code Button ──────────────────────────────────────── */
+/* Copy Button */
 .copy-code {
     display: none;
     position: absolute;
@@ -166,69 +154,11 @@ pre {
     background: rgba(78, 78, 78, 0.8);
     border-radius: var(--radius);
     padding: 0 5px;
-    font-size: var(--code-font-size);
+    font-size: clamp(12px, 1vw, 14px);
     user-select: none;
 }
 
 div.highlight:hover .copy-code,
 pre:hover .copy-code {
     display: block;
-}
-
-/* ─── Responsive: Large Tablets / Small Desktops (≤1024px) ─── */
-@media (max-width: 1024px) {
-    :root {
-        --h1size: 1.75rem;
-        --body-font-size: 0.975rem;
-    }
-}
-
-/* ─── Responsive: Tablets (≤768px) ─────────────────────────── */
-@media (max-width: 768px) {
-    :root {
-        --h1size: 1.5rem;
-        --body-font-size: 0.95rem;
-        --code-font-size: 0.8rem;
-        --pagination-font-size: 12px;
-        --pagination-line-height: 32px;
-        --social-icon-size: 24px;
-    }
-
-    .social-icons a:not(:last-of-type) {
-        margin-inline-end: 12px;
-    }
-
-    .pagination a {
-        padding: 0 12px;
-    }
-}
-
-/* ─── Responsive: Mobile (≤480px) ──────────────────────────── */
-@media (max-width: 480px) {
-    :root {
-        --h1size: 1.25rem;
-        --body-font-size: 0.9rem;
-        --code-font-size: 0.75rem;
-        --pagination-font-size: 11px;
-        --pagination-line-height: 28px;
-        --social-icon-size: 20px;
-    }
-
-    .social-icons {
-        padding: 8px 0;
-    }
-
-    .social-icons a:not(:last-of-type) {
-        margin-inline-end: 10px;
-    }
-
-    .pagination a {
-        padding: 0 10px;
-    }
-
-    .copy-code {
-        top: 2px;
-        right: 2px;
-        padding: 0 4px;
-    }
 }
