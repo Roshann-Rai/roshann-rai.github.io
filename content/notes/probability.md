@@ -5,8 +5,8 @@ date: 2025-01-20
 lastmod: 2025-01-20
 pdf: /notes/probability.pdf
 url: /notes/probability.pdf
-aliases: 
-    - /4/4.html
+# aliases: 
+#     - /4/4.html
 tags: ["Probability"]
 author: "Roshan Rai"
 description: "" 
