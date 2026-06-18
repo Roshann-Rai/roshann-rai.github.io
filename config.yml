@@ -3,6 +3,10 @@ title: Roshan Rai
 pagination.pagerSize: 20
 theme: PaperMod
 
+author:
+  name: "Roshan Rai"
+  email: "roshan.rai@nrb.org.np"
+
 enableInlineShortcodes: true
 enableRobotsTXT: true
 

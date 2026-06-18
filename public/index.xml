@@ -1,17 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Roshan Rai</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Roshan Rai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <author>Roshan Rai</author>
+    
+    
+    <managingEditor>Roshan Rai</managingEditor>
+    <webMaster>Roshan Rai</webMaster>
+    
+    
+    <lastBuildDate>Mon, 23 Mar 2026 00:00:00 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Nepal&#39;s Public Debt: Should We be Worried?</title>
       <link>http://localhost:1313/notes/public.pdf</link>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-      
+      <author>Roshan Rai</author>
       <guid>http://localhost:1313/notes/public.pdf</guid>
       <description>The rapid rise of public debt of Nepal has worried the policymakers, bureaucrats, economists and the public like. Public debt to GDP ratio was around 15-20% of GDP pre-earthquake period has reached 44% in 2025.</description>
     </item>
@@ -20,7 +31,7 @@
       <title>Oligarchy and Democracy</title>
       <link>http://localhost:1313/6/</link>
       <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
-      
+      <author>Roshan Rai</author>
       <guid>http://localhost:1313/6/</guid>
       <description>From tribal societies to modern state, power is often concentrated on the select few who dominate the many. There is the continuous struggle between the elites and commons that can be seen as a conflict between those seeking to protect existing power and those striving to gain power or challenge it.</description>
     </item>
@@ -29,16 +40,16 @@
       <title>Disclosure in Financial Market: Costs and Benefits</title>
       <link>http://localhost:1313/5/</link>
       <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>Roshan Rai</author>
       <guid>http://localhost:1313/5/</guid>
-      <description>This article explains the costs and benefits of corporate disclosure in financial market.</description>
+      <description>Economists George Akerlof (1970), Eugene Fama (1970), Michael Jensen and William Meckling (1976) have argued that information symmetry is key foundation to fair and efficient market. The modern financial market has adopted this notion of information symmetry.</description>
     </item>
     
     <item>
       <title>Probability</title>
       <link>http://localhost:1313/notes/probability.pdf</link>
       <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-      
+      <author>Roshan Rai</author>
       <guid>http://localhost:1313/notes/probability.pdf</guid>
       <description>This includes the notes related to probability. This note contains parts that I learnt from the Probability and Statistics course of Georgia Tech university&amp;rsquo;s edx.org</description>
     </item>
@@ -47,28 +58,36 @@
       <title>Differential Equation</title>
       <link>http://localhost:1313/notes/differential-equation.pdf</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      
+      <author>Roshan Rai</author>
       <guid>http://localhost:1313/notes/differential-equation.pdf</guid>
       <description>This includes the notes related to differential equation. This note contains parts that I learnt from the Differential Equation course of Rice university&amp;rsquo;s.</description>
     </item>
     
+    <item>
+      <title>Archive</title>
+      <link>http://localhost:1313/archive/</link>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
+      <author>Roshan Rai</author>
+      <guid>http://localhost:1313/archive/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Financial literacy: Beyond Investor Protection</title>
       <link>http://localhost:1313/2/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      
+      <author>Roshan Rai</author>
       <guid>http://localhost:1313/2/</guid>
-      <description>This article explains the need for financial literacy for economic growth and stability.</description>
+      <description>Rapid financial innovations can be a problem unless the investors are well aware about the financial instruments. When the majority of public are financially illiterate, it can result in the unnecessary speculations prices of assets. This can create the volatile economy.</description>
     </item>
     
     <item>
       <title>Financing for Greener Future: Exploring the potential of green bonds in Nepal</title>
       <link>http://localhost:1313/1/</link>
       <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
-      
+      <author>Roshan Rai</author>
       <guid>http://localhost:1313/1/</guid>
-      <description>This article explains the need for and challenges of green financing in nepal.</description>
+      <description>The effects of climate change can reduce the global economic output by 11 to 14 percent by 2050 according to Swiss Re. To combat climate change, new type of financial instrument has been developed called the green bond.</description>
     </item>
     
   </channel>

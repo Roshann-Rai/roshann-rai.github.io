@@ -1,28 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Financial Market on Roshan Rai</title>
     <link>http://localhost:1313/tags/financial-market/</link>
     <description>Recent content in Financial Market on Roshan Rai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/financial-market/index.xml" rel="self" type="application/rss+xml" />
+    
+    <author>Roshan Rai</author>
+    
+    
+    <managingEditor>Roshan Rai</managingEditor>
+    <webMaster>Roshan Rai</webMaster>
+    
+    
+    <lastBuildDate>Mon, 05 May 2025 00:00:00 +0000</lastBuildDate>
+    
+    <atom:link href="http://localhost:1313/tags/financial-market/" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Disclosure in Financial Market: Costs and Benefits</title>
       <link>http://localhost:1313/5/</link>
       <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>Roshan Rai</author>
       <guid>http://localhost:1313/5/</guid>
-      <description>This article explains the costs and benefits of corporate disclosure in financial market.</description>
+      <description>Economists George Akerlof (1970), Eugene Fama (1970), Michael Jensen and William Meckling (1976) have argued that information symmetry is key foundation to fair and efficient market. The modern financial market has adopted this notion of information symmetry.</description>
     </item>
     
     <item>
       <title>Financial literacy: Beyond Investor Protection</title>
       <link>http://localhost:1313/2/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      
+      <author>Roshan Rai</author>
       <guid>http://localhost:1313/2/</guid>
-      <description>This article explains the need for financial literacy for economic growth and stability.</description>
+      <description>Rapid financial innovations can be a problem unless the investors are well aware about the financial instruments. When the majority of public are financially illiterate, it can result in the unnecessary speculations prices of assets. This can create the volatile economy.</description>
     </item>
     
   </channel>
