@@ -3,8 +3,8 @@ title: "Probability"
 baseURL: https://roshann-rai.github.io
 date: 2025-01-20
 lastmod: 2025-01-20
-pdf: /notes/probability.pdf
-url: /notes/
+pdf: /notes/
+url: /notes/probability.pdf
 aliases: 
     - /4/4.html
 tags: ["Probability"]
