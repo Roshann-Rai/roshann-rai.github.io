@@ -5,8 +5,8 @@ date: 2024-07-01
 lastmod: 2024-07-01
 pdf: /notes/differential-equation.pdf
 url: /notes/differential-equation.pdf
-# aliases: 
-#     - /3/3.html
+aliases: 
+    - /3/3.html
 tags: ["differential equation"]
 author: "Roshan Rai"
 description: "" 
