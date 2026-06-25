@@ -3,10 +3,6 @@ title: Roshan Rai
 pagination.pagerSize: 20
 theme: PaperMod
 
-author:
-  name: "Roshan Rai"
-  email: "roshan.rai@nrb.org.np"
-
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
@@ -51,7 +47,7 @@ params:
     profileMode:
           enabled: true
           title: Roshan Rai
-          subtitle: "Something to document my learning journey."
+          subtitle: "Something to document everything I read, write and think about."
           imageUrl: "/roshan.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -61,8 +57,8 @@ params:
               url: /finance-economics/
             - name: Society & Politics
               url: /society-politics/
-            - name: Notes
-              url: /notes/ 
+            - name: Mathematics
+              url: /mathematics/ 
             #- name: Projects
              # url: /projects/ 
             - name: Archive
