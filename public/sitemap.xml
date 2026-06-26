@@ -8,7 +8,7 @@
     <loc>http://localhost:1313/tags/nepal/</loc>
     <lastmod>2026-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notes/public.pdf</loc>
+    <loc>http://localhost:1313/finance-economics/public_debt/</loc>
     <lastmod>2026-03-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/public-debt/</loc>
@@ -53,13 +53,13 @@
     <loc>http://localhost:1313/mathematics/</loc>
     <lastmod>2025-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notes/probability.pdf</loc>
+    <loc>http://localhost:1313/mathematics/probability/</loc>
     <lastmod>2025-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/probability/</loc>
     <lastmod>2025-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notes/differential-equation.pdf</loc>
+    <loc>http://localhost:1313/mathematics/differential_equation/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/differential-equation/</loc>

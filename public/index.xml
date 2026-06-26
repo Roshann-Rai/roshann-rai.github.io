@@ -16,10 +16,10 @@
     
     <item>
       <title>Nepal&#39;s Public Debt: Should We be Worried?</title>
-      <link>http://localhost:1313/notes/public.pdf</link>
+      <link>http://localhost:1313/finance-economics/public_debt/</link>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
       <author>Roshan Rai</author>
-      <guid>http://localhost:1313/notes/public.pdf</guid>
+      <guid>http://localhost:1313/finance-economics/public_debt/</guid>
       <description>The rapid rise of public debt of Nepal has worried the policymakers, bureaucrats, economists and the public like. Public debt to GDP ratio was around 15-20% of GDP pre-earthquake period has reached 44% in 2025.</description>
     </item>
     
@@ -43,19 +43,19 @@
     
     <item>
       <title>Probability</title>
-      <link>http://localhost:1313/notes/probability.pdf</link>
+      <link>http://localhost:1313/mathematics/probability/</link>
       <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
       <author>Roshan Rai</author>
-      <guid>http://localhost:1313/notes/probability.pdf</guid>
+      <guid>http://localhost:1313/mathematics/probability/</guid>
       <description>This includes the notes related to probability. This note contains parts that I learnt from the Probability and Statistics course of Georgia Tech university&amp;rsquo;s edx.org</description>
     </item>
     
     <item>
       <title>Differential Equation</title>
-      <link>http://localhost:1313/differential-equation.pdf</link>
+      <link>http://localhost:1313/mathematics/differential_equation/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       <author>Roshan Rai</author>
-      <guid>http://localhost:1313/differential-equation.pdf</guid>
+      <guid>http://localhost:1313/mathematics/differential_equation/</guid>
       <description>This includes the notes related to differential equation. This note contains parts that I learnt from the Differential Equation course of Rice university&amp;rsquo;s.</description>
     </item>
     

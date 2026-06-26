@@ -47,7 +47,7 @@ params:
     profileMode:
           enabled: true
           title: Roshan Rai
-          subtitle: "Something to document everything I read, write and think about."
+          subtitle: "I work as an Assistant Director of Nepal Rastra Bank, Central Bank of Nepal. This blog document everything I read, write and think about."
           imageUrl: "/roshan.jpeg"
           imageWidth: 160
           imageHeight: 160
