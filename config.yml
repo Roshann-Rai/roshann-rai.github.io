@@ -57,7 +57,7 @@ params:
               url: /finance-economics/
             - name: Society & Politics
               url: /society-politics/
-            - name: Mathematics
+            - name: Mathematics for Economics
               url: /mathematics/ 
             #- name: Projects
              # url: /projects/ 

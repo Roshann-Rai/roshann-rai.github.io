@@ -3,6 +3,7 @@ title: "Differential Equation"
 baseURL: https://roshann-rai.github.io
 date: 2024-07-01
 lastmod: 2024-07-01
+layout: redirect
 pdf: /differential-equation.pdf
 #aliases: 
     #- /3/3.html
@@ -13,6 +14,6 @@ summary: "This includes the notes related to differential equation. This note co
 plotly: true
 draft: false
 ---
-<meta http-equiv="refresh" content="0; url=/differential-equation.pdf">
+<!-- <meta http-equiv="refresh" content="0; url=/differential-equation.pdf"> -->
 
 
